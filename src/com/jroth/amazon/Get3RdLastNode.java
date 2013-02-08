@@ -1,4 +1,4 @@
-package com.jroth.codility.amazon;
+package com.jroth.amazon;
 
 import java.util.Stack;
 
