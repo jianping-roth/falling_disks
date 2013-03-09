@@ -31,7 +31,7 @@ public class Get3RdLastNode {
     }
     
     Node get3rdLastNodeStack(Node root) {
-        Stack<Node> stack = new Stack<>();
+        Stack<Node> stack = new Stack<Node>();
         while (true) {
             if (root == null) {
                 break;
